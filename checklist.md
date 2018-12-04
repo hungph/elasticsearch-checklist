@@ -6,21 +6,21 @@
 # Indexing Data
 - [x] Define an index that satisfies a given set of requirements
 - [x] Perform index, create, read, update, and delete operations on the documents of an index
-- [ ] Define and use index aliases
+- [x] Define and use index aliases
 - [x] Define and use an index template for a given pattern that satisfies a given set of requirements
 - [ ] Define and use a dynamic template that satisfies a given set of requirements
-- [ ] Use the Reindex API and Update By Query API to reindex and/or update documents
+- [x] Use the Reindex API and Update By Query API to reindex and/or update documents
 - [ ] Define and use an ingest pipeline that satisfies a given set of requirements, including the use of Painless to modify documents
 # Queries
 - [x] Write and execute a search query for terms and/or phrases in one or more fields of an index
 - [x] Write and execute a search query that is a Boolean combination of multiple queries and filters
-- [ ] Highlight the search terms in the response of a query
+- [x] Highlight the search terms in the response of a query
 - [x] Sort the results of a query by a given set of requirements
 - [x] Implement pagination of the results of a search query
 - [x] Use the scroll API to retrieve large numbers of results
-- [ ] Apply fuzzy matching to a query
-- [ ] Define and use a search template
-- [ ] Write and execute a query that searches across multiple clusters
+- [x] Apply fuzzy matching to a query
+- [x] Define and use a search template
+- [x] Write and execute a query that searches across multiple clusters
 # Aggregations
 - [x] Write and execute metric and bucket aggregations
 - [x] Write and execute aggregations that contain sub-aggregations
